@@ -15,8 +15,8 @@ sitemap:
   filename: sitemap.xml
 params:
   custom_css: ["src/main.css"]
-  favicon: "/images/logo-projet 3 copie.png"
-  site_logo: "/images/logo-projet 3 copie.png"
+  favicon: "/images/logo-projet-3 copie.png"
+  site_logo: "/images/logo-projet-3 copie.png"
   description: The last theme you'll ever need. Maybe.
   facebook: ''
   twitter: https://twitter.com/GoHugoIO
