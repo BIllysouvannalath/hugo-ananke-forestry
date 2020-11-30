@@ -14,7 +14,7 @@ fields:
 - name: menu
   type: select
   default: []
-  config: 
+  config:
     required: false
     options:
     - menu
@@ -28,4 +28,3 @@ fields:
 pages:
 - content/_index.md
 - content/about/_index.md
- show_reading_time: true
