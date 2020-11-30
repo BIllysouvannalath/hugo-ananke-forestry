@@ -14,7 +14,7 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  favicon: ''
+  favicon: "/images/logo projet 3 copie.png"
   site_logo: "/images/logo projet 3 copie.png"
   description: The last theme you'll ever need. Maybe.
   facebook: ''
@@ -32,4 +32,4 @@ params:
   featured_image: "/images/image-fond-parralax copie.jpg"
   recent_posts_number: 2
   body_classes: athelas bg-washed-yellow
-  
+  custom_css: ["css/style.css"]
