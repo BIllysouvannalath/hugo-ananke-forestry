@@ -14,7 +14,8 @@ fields:
 - name: menu
   type: select
   default: []
-  config:
+  config: 
+  show_reading_time: true
     required: false
     options:
     - menu

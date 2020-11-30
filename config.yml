@@ -33,4 +33,4 @@ params:
   recent_posts_number: 2
   body_classes: athelas bg-washed-yellow
   custom_css: "static/style.css"
-  show_reading_time: "true"
+ 
