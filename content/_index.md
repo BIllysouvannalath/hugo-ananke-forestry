@@ -1,7 +1,7 @@
 ---
-title: Bienvenue sur mon journal
+title: Billy Souvannalath
 featured_image: "/images/image-fond-parralax copie.jpg"
-description: Mon journal
+description: Marketing raffiné pour startup décalée
 menu:
   menu: {}
 
