@@ -1,9 +1,9 @@
 ---
-title: Bienvenue sur mon journal
-featured_image: "/images/134901-road-tree-road_surface-infrastructure-lane-5835x3890.jpg"
-description: Mon journal
+title: Billy Souvannalath
+featured_image: "/images/image-fond-parralax copie.jpg"
+description: Marketing raffiné pour startup décalée
 menu:
   menu: {}
 
 ---
-Venez en savoir plus sur moi 
+Venez en savoir plus sur moi
