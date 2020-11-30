@@ -15,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: "/images/13e01739774d26f38cba74b69fd06841.jpg"
+  site_logo: "static/images/logo projet 3 copie.png"
   description: The last theme you'll ever need. Maybe.
   facebook: ''
   twitter: https://twitter.com/GoHugoIO
@@ -29,7 +29,7 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image: "/images/image-fond-parralax copie.jpg"
   recent_posts_number: 2
   body_classes: athelas bg-washed-yellow
   
