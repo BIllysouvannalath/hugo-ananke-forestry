@@ -32,4 +32,5 @@ params:
   featured_image: "/images/image-fond-parralax copie.jpg"
   recent_posts_number: 2
   body_classes: athelas bg-washed-yellow
-  custom_css: ["static/style.css"]
+  custom_css: "static/style.css"
+  show_reading_time: "true"
